@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xcrxck" alt="xcrxck" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **erfan78905@gmail.com**
 
